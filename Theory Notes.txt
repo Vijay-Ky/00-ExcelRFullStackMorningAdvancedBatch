@@ -1,0 +1,67 @@
+What are all the concepts has been covered in Spring Framework??
+
+What is Framework?
+--------------------
+A framework consists of several members like classes and interfaces etc... its kind of library. and we can call it as a ready-made architecture. like a plug and play. We dont have to worry about the template codes or some regular code and configurations we can focus mainly on our business logic.
+
+Spring Framework or Spring Eco system
+--------------------------------------
+- Spring is a very popular framework for building Java Applications.
+- Spring provides large number of helper classes and annotations.
+  Ex: @FunctionalInterface
+- Spring Framework is a well-established, highly adaptable(for any business req) Framework for creating web applications using Java.
+- Spring Framework makes Java programming easier, quicker and safer. Focusing on simplycity and speed and productivity.
+- It doesnt matter what kind of application you are trying to build, reactive, cloud-based microservices for the web and complex streaming data for the enterpise. spring has a tool to help. 
+- Spring Framework is an alternative for EJB's(Enterpise Java Bens) and Struts which were used in the 90's and 2000's. compare to this technologies Spring offers more simplycity, more features, as well as offering third party integration.
+- Spring Framework is an open-source 
+- official website of spring framework is www.spring.io
+- Spring Framework is a Lightweight and supports Java POJO's(Plane old Java Objects).
+- Offers Dependency Injection to promote loose coupling(EJB's heavy weight).
+- Minimizes boilerplate Java code.
+
+Note: Java EE ==> was called Java Enterprise Edition but after the oracle aquisition it is renamed as Jakarta Enterprise Edition.
+
+- 62% Developers are choosing Spring Boot over other frameworks.
+
+- Spring Framework developed by the person named "Rod Johnson" is an australian computer scientist. and he also co-founded SpringSource.
+- He Introduced this framework by releasing a book called expert one-on-one J2EE design. in the year 2002 october
+
+- As of now the standard edition of Spring framework is Spring Framework 6.0 it has been released in 16the November 2022. but the condition to use this version is compulsary we should be using Java 17+ editions.
+
+
+Spring Projects or Spring Modules(Spring EcoSystem)
+--------------------------------
+1. Spring Boot
+2. Spring Data
+3. Spring Core
+4. Spring MVC
+5. Spring Cloud
+6. Spring Security
+7. Spring Integration
+8. Spring Session
+
+
+Maven
+------
+- It is a Dependency Manager.
+- Spring Framework uses Maven for fetching depedencies from different servers.
+- No need of downloading and installing Maven but its better to install if you want to execute the spring applications from command line. even without installing also we can execute spring applications from the command line.
+
+
+Spring Boot Actuator
+-------------------
+1. Exposes endpoints to monitor and manage our application
+2. REST endpoints are automatically added to our application, no need to write additional code. 
+3. We can check the application health
+4. We can access the application metrics
+
+
+
+
+
+
+
+
+
+
+ 

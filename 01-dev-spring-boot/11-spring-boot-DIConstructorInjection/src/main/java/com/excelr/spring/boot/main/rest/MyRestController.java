@@ -11,7 +11,7 @@ public class MyRestController
     private Coach myCoach;
 
     @Autowired
-    public MyRestController(Coach theCoach)
+    public MyRestController(Coach theCoach) 
     {
         myCoach = theCoach;
         System.out.println("from constructor MyRestController theCoach value: " + myCoach);
